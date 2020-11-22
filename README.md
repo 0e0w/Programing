@@ -19,4 +19,6 @@
 - Haskell
 - JavaScript
 - Scala
+- Kotlin
+- Swift
 - ......
