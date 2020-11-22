@@ -12,4 +12,11 @@
 - [C]()
 - [C++]()
 - [C#]()
+- [Erlang]()
+- [Ruby]()
+- [Perl]()
+- Lisp
+- Haskell
+- JavaScript
+- Scala
 - ......
